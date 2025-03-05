@@ -17,8 +17,8 @@ function Form() {
         {/* <Button variant='contained' type='submit'>Submit</Button> {editIndex !== null ? 'Update' : 'Submit'} */}
         <Button variant="contained" type='submit'>
                     {editIndex !== null ? 'Update' : 'Submit'}
-                </Button>
-                
+           </Button>
+
       </form>
     </div>
   )
